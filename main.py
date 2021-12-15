@@ -1,7 +1,5 @@
 #members
 #utkarsh kumar- utkarsh.iit.delhi@gmail.com
-#arnab manna- arnabmanna619@gmail.com
-#sanya swain- sanyaswain16@gmail.com
 # Loading the required packages
 import numpy as np
 import pandas as pd
